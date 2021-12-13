@@ -1,2 +1,1 @@
-# Api_Fruit
-API Example using Java Quarkus, Swagger
+Quarkus guide: https://quarkus.io/guides/openapi-swaggerui
